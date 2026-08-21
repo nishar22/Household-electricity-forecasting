@@ -1,0 +1,4 @@
+Test,Series,Statistic,p_value,Lags,Observations,Conclusion,Trend,Sen_slope
+ADF,Original Training Series,-11.213268543802268,2.0997660587519753e-20,48.0,24163.0,Stationary evidence,,
+KPSS,Original Training Series,2.113638739592442,0.01,54.0,,Evidence of non-stationarity,,
+Mann-Kendall,Daily Training Series,-4.792589867477606,1.6464198171473043e-06,,,Significant monotonic trend,decreasing,-0.00022467111056917176
