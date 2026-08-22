@@ -1,0 +1,7 @@
+Test,Series,Statistic,p_value,Lags,Observations,Conclusion
+ADF,First Difference,-36.991682799158454,0.0,48,24162.0,Stationary evidence
+KPSS,First Difference,0.03244346507932009,0.1,248,,Stationary evidence
+ADF,Seasonal Difference (24),-34.34209557990897,0.0,48,24139.0,Stationary evidence
+KPSS,Seasonal Difference (24),0.012231433827090778,0.1,55,,Stationary evidence
+ADF,Regular + Seasonal Difference,-35.669831432245005,0.0,48,24138.0,Stationary evidence
+KPSS,Regular + Seasonal Difference,0.045112813661527286,0.1,1963,,Stationary evidence
